@@ -34,3 +34,6 @@ monkeysAI/nbdist/
 monkeysAI/.nb-gradle/
 
 # End of https://www.gitignore.io/api/java,netbeans
+/monkeysAI2/nbproject/private/
+/monkeysAI2/build/
+/monkeysAI2/dist/
